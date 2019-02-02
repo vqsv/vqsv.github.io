@@ -1,0 +1,10 @@
+---
+layout: post
+title: Clarity
+---
+
+These days I remove things. Strip away distractions and polish my window onto the world. It’s not about aesthetics or comfort, but about time.
+
+At some point, a man must realize that preparation is over. Yes, learning never ends, but he should not remain a student for too long. Life is too short and there is work to be done.
+
+Arm yourself with a handful of good books and mentors. Master the basics. Take only what you can carry easily and set sail. Everything else is waste.
