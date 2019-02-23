@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Prosochē
+tagline:             '... a shelf of thoughts and various hypomnemata'
+description:         ''
+url:                 https://vqsv.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              R R
+  url:               https://vqsv.github.io
+  email:             vqsv@icloud.com
+
+# Custom vars
+version:             1.0.0
